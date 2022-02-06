@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@akishichinibu/typedmeta": {
+      "version": "0.0.1",
+      "signature": "6ea85b061548a21439c4b4afd174b643",
+      "file": true
+    }
+  }
+}
